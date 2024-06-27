@@ -1,8 +1,14 @@
 #####################################
-##==> General Environment Settings
+##==> Variables
 #####################################
-export LANG=en_US.UTF-8
-set -gx MICRO_TRUECOLOR 1
+set -gx LANG 'en_US.UTF-8'
+set -U fish_greeting ''
+set -gx EDITOR 'micro'
+set -gx VISUAL 'micro'
+set -gx BROWSER '/usr/bin/firefox'
+set -gx MICRO_TRUECOLOR '1'
+set -gx _JAVA_AWT_WM_NONREPARTENTING '1'
+set -gx _JAVA_OPTIONS '-Dawt.useSystemAAFontSettings=on -Dswing.aatext=true'
 
 #####################################
 ##==> Aliases
@@ -36,14 +42,6 @@ function run_in_alacritty
         eval $argv
     end
 end
-
-#####################################
-##==> Universal Variables
-#####################################
-set -U fish_greeting ''
-set -gx EDITOR micro
-set -gx VISUAL micro
-set -gx BROWSER /usr/bin/firefox
 
 #####################################
 ##==> Interactive Session Settings

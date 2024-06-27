@@ -4,7 +4,7 @@
 pgrep -x sxhkd > /dev/null || sxhkd -c ~/.config/bspwm/sxhkdrc &
 
 # fix some Java applications
-# wmname LG3D
+wmname LG3D
 
 ##==> Workspaces Configuration
 #################################
