@@ -54,7 +54,7 @@ dunst -config $HOME/.config/bspwm/dunstrc &
 pgrep -x redshift > /dev/null || redshift &
 
 # start compositor
-picom --config $HOME/.config/bspwm/picom_configurations/config.conf &
+picom --config $HOME/.config/bspwm/picom.conf &
 
 # autostart
 flameshot &
