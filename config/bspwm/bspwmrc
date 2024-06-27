@@ -45,7 +45,7 @@ xrdb merge ~/.Xresources
 
 # python script to always initialize with a different wallpaper:
 # TODO: Add loading of basic scripts
-~/.config/polybar/launch.sh
+sh ~/.config/bspwm/polybar/scripts/launch.sh
 
 # launch notification daemon
 dunst -config $HOME/.config/bspwm/dunstrc &

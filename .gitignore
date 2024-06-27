@@ -7,7 +7,6 @@
 [Ll]ib
 [Ll]ib64
 [Ll]ocal
-[Ss]cripts
 pyvenv.cfg
 .venv
 pip-selfcheck.json
@@ -452,9 +451,6 @@ instance/
 
 # Scrapy stuff:
 .scrapy
-
-# Sphinx documentation
-.meowrch_meta/Docs/_build/
 
 # PyBuilder
 .pybuilder/
