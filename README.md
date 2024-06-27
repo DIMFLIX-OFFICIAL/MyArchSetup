@@ -21,7 +21,7 @@
 В первую очередь она предназначена для владельца данного репозитория, но при этом вы имеете все права и возможности
 использовать данный setup.</p><br>
 
-<img src=".meta/preview.png" alt="rice" align="right" width="500px">
+<img src=".meowrch_meta/assets/preview.png" alt="rice" align="right" width="500px">
 
  - OS: [**`Arch Linux`**](https://archlinux.org/)
  - WM: [**`BSPWM`**](https://github.com/baskerville/bspwm)
@@ -37,12 +37,12 @@
 
 <!-- IMAGES -->
 ## 🖼️ Мини-обзор
-![gallery](.meta/preview1.png)
-![gallery](.meta/preview2.png)
-![gallery](.meta/preview3.png)
-![gallery](.meta/preview4.png)
-![gallery](.meta/preview5.png)
-![gallery](.meta/preview6.png)
+![gallery](.meowrch_meta/assets/preview1.png)
+![gallery](.meowrch_meta/assets/preview2.png)
+![gallery](.meowrch_meta/assets/preview3.png)
+![gallery](.meowrch_meta/assets/preview4.png)
+![gallery](.meowrch_meta/assets/preview5.png)
+![gallery](.meowrch_meta/assets/preview6.png)
 
 
 <!-- FEATURES -->
@@ -57,7 +57,7 @@
 * Кастомный GRUB.
 * Постоянная поддержка проекта, т.к я сам ее повседневно использую
 
-**И множество других фич: [EN](Docs/03_all_features_and_tricks_english.md), [RU](Docs/02_all_features_and_tricks_russian.md)**
+**И множество других фич: [EN](.meowrch_meta/Docs/03_all_features_and_tricks_english.md), [RU](.meowrch_meta/Docs/02_all_features_and_tricks_russian.md)**
 
 > [!WARNING]
 > ДАННАЯ КОНФИГУРАЦИЯ ПРЕДНАЗНАЧЕНА ДЛЯ МОНИТОРОВ С РАЗРЕШЕНИЕМ 1920X1080,
@@ -85,7 +85,7 @@
    ```
 4. Если вы сделали всё правильно, то уже можно начать пользоваться сборкой. `startx`
 
-Полное руководство по установке системы и графической оболочки с помощью builder: [EN](Docs/01_installing_arch_linux_with_bspwm_english.md), [RU](Docs/00_installing_arch_linux_with_bspwm_russian.md). 
+Полное руководство по установке системы и графической оболочки с помощью builder: [EN](.meowrch_meta/Docs/01_installing_arch_linux_with_bspwm_english.md), [RU](.meowrch_meta/Docs/00_installing_arch_linux_with_bspwm_russian.md). 
 
 <!-- ERRORS -->
 ## 🩹 Исправление ошибок после установки

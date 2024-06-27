@@ -454,7 +454,7 @@ instance/
 .scrapy
 
 # Sphinx documentation
-docs/_build/
+.meowrch_meta/Docs/_build/
 
 # PyBuilder
 .pybuilder/
